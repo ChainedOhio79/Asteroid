@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9779ece190aa3a348982d80ecfd1a4d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - whiteRockSprite: {fileID: 21300000, guid: ee5f4c5e7917d2444b03e02d190a7b9d, type: 3}
+  - magentaRockSprite: {fileID: 21300000, guid: 5074d7edf3c45cb4093f53f96fc7b4d9,
+      type: 3}
+  - greenRockSprite: {fileID: 21300000, guid: 9a8101bfc27c607419827a4cf54b591b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
